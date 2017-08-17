@@ -8,3 +8,12 @@ To run project:
 4. Run the backend section as a spring boot project in eclipse
 5. Navigate to frontend folder in terminal and run 'npm start'
 6. Go to localhost:4200 and website should be running
+
+May need to install:
+- mysql
+- node js
+- angular cli
+- eclipse web ide
+- sts in eclipse
+- angular ide in eclipse
+
