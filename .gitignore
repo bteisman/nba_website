@@ -5,3 +5,5 @@
 *.DS_Store
 */node_modules
 */node_modules/*
+/backend/server/target
+/frontend/client/node_modules
