@@ -1,0 +1,36 @@
+export interface Player {
+  id: number;
+  name: string;
+  team: string;
+  team_id: number;
+  age: number;
+  minutes: number;
+  points: number;
+  assists: number;
+  rebounds: number;
+  blocks: number;
+  turnovers: number;
+  steals: number;
+  ft: number;
+  fg: number;
+  threept: number;
+  gp: number;
+  gs: number;
+  fouls: number;
+  dreb: number;
+  oreb: number;
+  threeptrank: number;
+  rebrank: number;
+  ptsrank: number;
+  effrank: number;
+  stlrank: number;
+  orebrank: number;
+  drebrank: number;
+  threepctrank: number;
+  astrank: number;
+  blkrank: number;
+  tovrank: number;
+  ftrank: number;
+  fgrank: number;
+  salary: number;
+}
